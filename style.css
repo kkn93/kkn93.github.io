@@ -69,12 +69,17 @@ body {
     margin: 0 40px;
 }
 
-.daftar {
+.daftar,
+.tamansurga {
     background-color: rgb(129, 165, 209);
     text-align: center;
     padding:  10px 40px;
     margin-top: 30px;
     font-family: 'Inika', sans-serif;
+}
+
+.tamansurga {
+    font-size: 20px;
 }
 
 .daftar h4 {
